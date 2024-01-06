@@ -1,0 +1,32 @@
+body{
+    justify-content:center;
+/*     text-align:center; */
+    align-items:center;
+}
+.div{
+    border:5px solid black;
+    padding:50px;
+    width:500px;
+    justify-content:center;
+    margin:7pc 0px 10px 450px;
+}
+.h1{
+    font-size:30px;
+    color:blue;
+    font-weight:bold;
+}
+
+.h3{
+    font-size:20px;
+}
+.text{
+    font-size:20px;
+    width:300px;
+}
+.but{
+    background-color:red;
+    color:white;
+    border:2px solid black;
+    margin:10px;
+    padding:10px;
+}
